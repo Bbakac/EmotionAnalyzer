@@ -1,10 +1,10 @@
-# Twitter Emotion Analysis Project
+# EmotionAnalyzer Project
 
 ## Project Overview
 This project aims to analyze emotions from Twitter data using a dataset from Kaggle. The data is categorized into five different emotions: Angry, Fear, Happy, Surprise, and Sad. The project involves collecting data from Twitter, processing and analyzing it to detect emotions, and visualizing the results on a web interface.
 
 ## Repository Link
-You can access the project repository on GitHub [here](https://github.com/Bbakac/Bitirme_odevi.git).
+You can access the project repository on GitHub [here](https://github.com/Bbakac/EmotionAnalyzer.git).
 
 ## Goals
 - **Data Collection:** Gather a large dataset of tweets using the Twitter API.
@@ -60,8 +60,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Bbakac/Bitirme_odevi.git
-    cd Bitirme_odevi
+    git clone https://github.com/Bbakac/EmotionAnalyzer.git
+    cd EmotionAnalyzer
     ```
 
 2. **Create a virtual environment:**
@@ -109,6 +109,7 @@ scikit-learn==0.24.2
 seaborn==0.11.1
 matplotlib==3.4.2
 
-Conclusion
 
+
+## Conclusion
 This project successfully demonstrates the process of collecting, processing, and analyzing Twitter data for emotion detection. The developed model and web interface provide valuable insights into the emotional states expressed on Twitter.
